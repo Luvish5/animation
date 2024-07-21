@@ -12,13 +12,6 @@
 
 body.textt {
     opacity: 1;
-    display: flex;
-    flex-direction: column-reverse;
-    align-items: center;
-    justify-content: flex-top;
-    min-height: 95vh;
-    background-color: var(--dark-color);
-    overflow: hidden;
 }
 
 .fixcont {
